@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F57uqLRzilVq+rJyfoH8/jeyCDITL/dyqtza74jqm7B7L/eRXaliNTaoKhXgowAD9bJq9eJl1WNktcmpIgX8Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\source\\repos\\AbstractShop\\AbstractShopView\\SecuritySystemView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\unity\\5.11.1\\unity.5.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

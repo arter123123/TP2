@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormCreateOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEquipmentt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEquipmentts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKitEquipmentt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,236 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      },
+      "Unity/5.11.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netcoreapp2.0/Unity.Abstractions.dll": {},
+          "lib/netcoreapp2.0/Unity.Container.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Unity.Abstractions.dll": {},
+          "lib/netcoreapp2.0/Unity.Container.dll": {}
+        }
+      },
+      "SecuritySystemBusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "SecuritySystemContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SecuritySystemBusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SecuritySystemBusinessLogic.dll": {}
+        }
+      },
+      "SecuritySystemContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SecuritySystemContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SecuritySystemContracts.dll": {}
+        }
+      },
+      "SecuritySystemListImplement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "SecuritySystemContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SecuritySystemListImplement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SecuritySystemListImplement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "sha512": "wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Unity/5.11.1": {
+      "sha512": "4LroMtZWLwc2krUsH8IX62fxNoOKb1463wHdtu617iVAOkMaFZ4e4kp6VR7tBi20jxvezlRbknWoeCXWg903yg==",
+      "type": "package",
+      "path": "unity/5.11.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Unity.Abstractions.dll",
+        "lib/net40/Unity.Abstractions.pdb",
+        "lib/net40/Unity.Container.dll",
+        "lib/net40/Unity.Container.pdb",
+        "lib/net45/Unity.Abstractions.dll",
+        "lib/net45/Unity.Abstractions.pdb",
+        "lib/net45/Unity.Container.dll",
+        "lib/net45/Unity.Container.pdb",
+        "lib/net46/Unity.Abstractions.dll",
+        "lib/net46/Unity.Abstractions.pdb",
+        "lib/net46/Unity.Container.dll",
+        "lib/net46/Unity.Container.pdb",
+        "lib/net47/Unity.Abstractions.dll",
+        "lib/net47/Unity.Abstractions.pdb",
+        "lib/net47/Unity.Container.dll",
+        "lib/net47/Unity.Container.pdb",
+        "lib/netcoreapp1.0/Unity.Abstractions.dll",
+        "lib/netcoreapp1.0/Unity.Abstractions.pdb",
+        "lib/netcoreapp1.0/Unity.Container.dll",
+        "lib/netcoreapp1.0/Unity.Container.pdb",
+        "lib/netcoreapp2.0/Unity.Abstractions.dll",
+        "lib/netcoreapp2.0/Unity.Abstractions.pdb",
+        "lib/netcoreapp2.0/Unity.Container.dll",
+        "lib/netcoreapp2.0/Unity.Container.pdb",
+        "lib/netstandard1.0/Unity.Abstractions.dll",
+        "lib/netstandard1.0/Unity.Abstractions.pdb",
+        "lib/netstandard1.0/Unity.Container.dll",
+        "lib/netstandard1.0/Unity.Container.pdb",
+        "lib/netstandard2.0/Unity.Abstractions.dll",
+        "lib/netstandard2.0/Unity.Abstractions.pdb",
+        "lib/netstandard2.0/Unity.Container.dll",
+        "lib/netstandard2.0/Unity.Container.pdb",
+        "unity.5.11.1.nupkg.sha512",
+        "unity.nuspec"
+      ]
+    },
+    "SecuritySystemBusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../AbstractShopBusinessLogic/SecuritySystemBusinessLogic.csproj",
+      "msbuildProject": "../AbstractShopBusinessLogic/SecuritySystemBusinessLogic.csproj"
+    },
+    "SecuritySystemContracts/1.0.0": {
+      "type": "project",
+      "path": "../AbstractShopContracts/SecuritySystemContracts.csproj",
+      "msbuildProject": "../AbstractShopContracts/SecuritySystemContracts.csproj"
+    },
+    "SecuritySystemListImplement/1.0.0": {
+      "type": "project",
+      "path": "../AbstractShopListImplement/SecuritySystemListImplement.csproj",
+      "msbuildProject": "../AbstractShopListImplement/SecuritySystemListImplement.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "SecuritySystemBusinessLogic >= 1.0.0",
+      "SecuritySystemListImplement >= 1.0.0",
+      "Unity >= 5.11.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\artem\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\artem\\source\\repos\\AbstractShop\\AbstractShopView\\SecuritySystemView.csproj",
+      "projectName": "SecuritySystemView",
+      "projectPath": "C:\\Users\\artem\\source\\repos\\AbstractShop\\AbstractShopView\\SecuritySystemView.csproj",
+      "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\artem\\source\\repos\\AbstractShop\\AbstractShopView\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\artem\\source\\repos\\AbstractShop\\AbstractShopBusinessLogic\\SecuritySystemBusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\artem\\source\\repos\\AbstractShop\\AbstractShopBusinessLogic\\SecuritySystemBusinessLogic.csproj"
+            },
+            "C:\\Users\\artem\\source\\repos\\AbstractShop\\AbstractShopListImplement\\SecuritySystemListImplement.csproj": {
+              "projectPath": "C:\\Users\\artem\\source\\repos\\AbstractShop\\AbstractShopListImplement\\SecuritySystemListImplement.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "Unity": {
+            "target": "Package",
+            "version": "[5.11.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

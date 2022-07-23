@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SecuritySystemBusinessLogic/1.0.0": {
+        "dependencies": {
+          "SecuritySystemContracts": "1.0.0"
+        },
+        "runtime": {
+          "SecuritySystemBusinessLogic.dll": {}
+        }
+      },
+      "SecuritySystemContracts/1.0.0": {
+        "runtime": {
+          "SecuritySystemContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecuritySystemBusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SecuritySystemContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

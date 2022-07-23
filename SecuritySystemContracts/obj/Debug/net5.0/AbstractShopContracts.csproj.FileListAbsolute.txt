@@ -1,0 +1,12 @@
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\bin\Debug\net5.0\AbstractShopContracts.deps.json
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\bin\Debug\net5.0\AbstractShopContracts.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\bin\Debug\net5.0\AbstractShopContracts.pdb
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\AbstractShopContracts.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\AbstractShopContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\AbstractShopContracts.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\AbstractShopContracts.AssemblyInfo.cs
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\AbstractShopContracts.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\AbstractShopContracts.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\refint\AbstractShopContracts.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\AbstractShopContracts.pdb
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\ref\AbstractShopContracts.dll

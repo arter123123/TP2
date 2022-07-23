@@ -1,0 +1,12 @@
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\bin\Debug\net5.0\SecuritySystemContracts.deps.json
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\bin\Debug\net5.0\SecuritySystemContracts.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\bin\Debug\net5.0\SecuritySystemContracts.pdb
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\SecuritySystemContracts.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\SecuritySystemContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\SecuritySystemContracts.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\SecuritySystemContracts.AssemblyInfo.cs
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\SecuritySystemContracts.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\SecuritySystemContracts.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\refint\SecuritySystemContracts.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\SecuritySystemContracts.pdb
+C:\Users\artem\source\repos\AbstractShop\AbstractShopContracts\obj\Debug\net5.0\ref\SecuritySystemContracts.dll

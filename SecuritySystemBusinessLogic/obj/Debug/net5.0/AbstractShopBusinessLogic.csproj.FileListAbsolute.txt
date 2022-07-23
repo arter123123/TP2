@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\bin\Debug\net5.0\AbstractShopBusinessLogic.deps.json
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\bin\Debug\net5.0\AbstractShopBusinessLogic.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\bin\Debug\net5.0\AbstractShopBusinessLogic.pdb
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\bin\Debug\net5.0\AbstractShopContracts.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\bin\Debug\net5.0\AbstractShopContracts.pdb
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\obj\Debug\net5.0\AbstractShopBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\obj\Debug\net5.0\AbstractShopBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\obj\Debug\net5.0\AbstractShopBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\obj\Debug\net5.0\AbstractShopBusinessLogic.AssemblyInfo.cs
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\obj\Debug\net5.0\AbstractShopBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\obj\Debug\net5.0\AbstractShopBusinessLogic.csproj.CopyComplete
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\obj\Debug\net5.0\AbstractShopBusinessLogic.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\obj\Debug\net5.0\refint\AbstractShopBusinessLogic.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\obj\Debug\net5.0\AbstractShopBusinessLogic.pdb
+C:\Users\artem\source\repos\AbstractShop\AbstractShopBusinessLogic\obj\Debug\net5.0\ref\AbstractShopBusinessLogic.dll

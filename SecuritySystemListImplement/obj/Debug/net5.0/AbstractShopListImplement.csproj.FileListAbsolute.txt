@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\bin\Debug\net5.0\AbstractShopListImplement.deps.json
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\bin\Debug\net5.0\AbstractShopListImplement.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\bin\Debug\net5.0\AbstractShopListImplement.pdb
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\bin\Debug\net5.0\AbstractShopContracts.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\bin\Debug\net5.0\AbstractShopContracts.pdb
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\obj\Debug\net5.0\AbstractShopListImplement.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\obj\Debug\net5.0\AbstractShopListImplement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\obj\Debug\net5.0\AbstractShopListImplement.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\obj\Debug\net5.0\AbstractShopListImplement.AssemblyInfo.cs
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\obj\Debug\net5.0\AbstractShopListImplement.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\obj\Debug\net5.0\AbstractShopListImplement.csproj.CopyComplete
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\obj\Debug\net5.0\AbstractShopListImplement.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\obj\Debug\net5.0\refint\AbstractShopListImplement.dll
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\obj\Debug\net5.0\AbstractShopListImplement.pdb
+C:\Users\artem\source\repos\AbstractShop\AbstractShopListImplement\obj\Debug\net5.0\ref\AbstractShopListImplement.dll

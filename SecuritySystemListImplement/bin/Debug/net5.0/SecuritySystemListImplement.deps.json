@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SecuritySystemListImplement/1.0.0": {
+        "dependencies": {
+          "SecuritySystemContracts": "1.0.0"
+        },
+        "runtime": {
+          "SecuritySystemListImplement.dll": {}
+        }
+      },
+      "SecuritySystemContracts/1.0.0": {
+        "runtime": {
+          "SecuritySystemContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecuritySystemListImplement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SecuritySystemContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
